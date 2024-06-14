@@ -33,7 +33,12 @@ Hence its a classification based problem so we will use supervised classificatio
 #### Random Forest Classifier
 
 # Results:
-#### Accuracy = 
+Accuracy scores:  
+
+#### LOGISTIC REGRESSION = 0.9958  
+####  Decision Tree Classifier = 1
+####  KNN = 1
+#### Random Forest Classifier = 1
 
 
 
